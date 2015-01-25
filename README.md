@@ -93,4 +93,4 @@ Alternatively, and to avoid always having to re-type test data, you can open a f
 When you have finished with your virtual serial port pair, you can break the pair and clean up the underlying /dev directory. To enable this, simple select the Break Pair button on the main window. You will be prompted for your password again (as with creating the pair, it is a privileged operation removing the underlying files).
 
 # Source
-Source code was pulled from https://github.com/bradfordcp/PublicCode/tree/master/MacOSXVirtualSerialPort which was originally on Google Code. This copy is here mostly for documentation purposes while I work on a project.
+Source code was pulled from https://github.com/clokey/PublicCode/tree/master/MacOSXVirtualSerialPort which was originally on Google Code. This copy is here mostly for documentation purposes while I work on a project.
